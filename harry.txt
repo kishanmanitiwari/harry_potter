@@ -11,3 +11,4 @@ Hello sir my name is Rasika
 
 added one
 
+GitHub is a web-based platform that facilitates version control and collaboration for software development projects. It uses Git, a distributed version control system, allowing developers to track changes, manage code, and collaborate seamlessly. With features like pull requests, issues, and project boards, GitHub has become essential for modern software development workflows.
